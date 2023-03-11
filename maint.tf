@@ -18,7 +18,7 @@ terraform {
 }
 
 ################################################################################
-# LOCALS. METADA MySql | Web-server  SCRIPT 
+# LOCALS. METADA MySql | Web-server  CONFIGURATION SCRIPT 
 ################################################################################
 
 locals {
