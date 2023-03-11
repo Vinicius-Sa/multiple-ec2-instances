@@ -1,4 +1,4 @@
-##  Deploy multiple AWS EC2 instances. with metadata script for web-server and MySql
+## Deploy multiple AWS EC2 instances. with metadata script for web-server and MySql
 
 
 # Compliance 
